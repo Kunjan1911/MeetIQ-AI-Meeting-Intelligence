@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+speechrecognition
+pydub
+reportlab
+python-dotenv
+pandas
+numpy

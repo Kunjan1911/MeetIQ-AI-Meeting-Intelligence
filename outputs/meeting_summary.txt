@@ -1,0 +1,1 @@
+Project planning meeting to finalize timeline for the AI meeting and diligent system and assigned responsibilities for the first development sprint. Good morning, I have completed the initial research on the speech recognition models. I recommend using open AI whisper because it provides accurate transcription and works well even with the background noise.
