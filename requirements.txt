@@ -4,6 +4,7 @@ numpy
 matplotlib
 seaborn
 wordcloud
+transformers
 reportlab
 python-dotenv
 google-generativeai
